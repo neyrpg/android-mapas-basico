@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android-mapas-basico</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="permissao_mapa">Olá. \n Para o funcionamento deste aplicativo é preciso que você autorize o uso de sua localização</string>
+    <string name="btn_permitir">Permitir</string>
+    <string name="btn_mapa_basico">Mapa Básico</string>
+    <string name="btn_mapa_movimento">Mapa Movimento</string>
 </resources>

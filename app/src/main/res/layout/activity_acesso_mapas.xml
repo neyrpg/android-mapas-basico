@@ -4,20 +4,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="br.com.giltech.android_mapas_basico.activity.MainActivity">
+    tools:context="br.com.giltech.android_mapas_basico.activity.AcessoMapasActivity">
 
-    <TextView
+
+    <Button android:id="@+id/btn_mapa_basico"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/permissao_mapa"
-    />
+        android:text="@string/btn_mapa_basico"
+        />
 
-    <Button
-        android:id="@+id/btn_permitir"
+    <Button android:id="@+id/btn_mapa_movimento"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btn_permitir"
-         />
+        android:text="@string/btn_mapa_movimento"
+        />
 
 
 </LinearLayout>
